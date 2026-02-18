@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EmploymentAuthorizationCard",
+            "request": "launch",
+            "mainClass": "EmploymentAuthorizationCard",
+            "projectName": "lab-05-daca-formatted-output-KaanKocaman147_4ce4dce"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main"
